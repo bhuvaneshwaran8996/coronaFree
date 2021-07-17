@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121353220861",
+    "project_id": "coronafree-77bad",
+    "storage_bucket": "coronafree-77bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121353220861:android:4aef54d66a27b419a4c494",
+        "android_client_info": {
+          "package_name": "com.sample.coronafree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121353220861-b89ir73cvtpf1k56ef4o32au65h78up7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-p961Graez2WN9knC57AbdxRwKbhdC6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121353220861-b89ir73cvtpf1k56ef4o32au65h78up7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
